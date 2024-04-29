@@ -1,4 +1,6 @@
 
+// ignore_for_file: must_be_immutable
+
 import 'package:flutter/material.dart';
 import 'package:sample/models/shoe_model.dart';
 import 'package:sample/utils/constants.dart';
