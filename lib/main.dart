@@ -13,10 +13,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        fontFamily: 'Quicksand',
-      ),
-      title: 'Sneakers Shop App',
       home: MainNavigator(),
     );
   }
